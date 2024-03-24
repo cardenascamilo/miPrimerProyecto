@@ -1,3 +1,4 @@
 1. Conocer que es un Full Stack Developer.
 2. Aprender Angular.
 3. Aprender a generar una API.
+4. Aprender sobre GIT
