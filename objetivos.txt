@@ -1,0 +1,8 @@
+1. Conocer que es un Full Stack Developer.
+2. Aprender Angular.
+3. Aprender a generar una API.
+<<<<<<< HEAD
+4. Aprender sobre GIT
+=======
+4. Usar GIT
+>>>>>>> Objetivos
